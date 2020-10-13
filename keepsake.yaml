@@ -3,4 +3,4 @@ kind: Keepsake
 metadata:
   name: keepsake-sample
 spec:
-  size: 2
+  size: 1
